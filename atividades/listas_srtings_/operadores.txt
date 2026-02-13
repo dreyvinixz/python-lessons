@@ -1,0 +1,10 @@
+operadores 
+expressões
+incremento 
+condicionais
+loop 
+while 
+for 
+range e slices
+lista 
+strings
